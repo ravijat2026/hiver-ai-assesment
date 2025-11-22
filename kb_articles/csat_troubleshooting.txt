@@ -1,0 +1,14 @@
+Title: Why is CSAT Not Appearing?
+
+If CSAT scores are not visible in Hiver Analytics, the following steps may help:
+
+1. Ensure CSAT surveys are enabled for the shared mailbox.
+2. Check that the conversation was marked as "Resolved". CSAT triggers only on resolution.
+3. Verify that the email includes the CSAT snippet. Email signature apps sometimes remove it.
+4. Confirm that the CSAT dashboard is not filtered by date or agent.
+5. Check user permissions — only Admins and Managers can view Analytics.
+
+If CSAT stopped appearing suddenly:
+- Check recent changes to email templates
+- Updates to the CSAT configuration
+- Whether Gmail threading removed the CSAT snippet

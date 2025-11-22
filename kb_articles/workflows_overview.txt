@@ -1,0 +1,11 @@
+Title: Understanding Hiver Workflows
+
+Workflows control how conversations move across teams. You can define stages, assign owners, and automate transitions.
+
+To edit a workflow:
+1. Go to Settings → Workflows.
+2. Open an existing workflow or create a new one.
+3. Add workflow stages such as "New", "Pending", "Resolved".
+4. Configure automation rules for stage transitions.
+
+Editing a workflow may impact existing automations or tasks.

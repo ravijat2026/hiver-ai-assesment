@@ -1,0 +1,9 @@
+Title: Tags and Label Management
+
+Tags help categorize conversations.
+
+If tags are missing:
+- Ensure the user has permission to edit tags.
+- Check if the tag was deleted accidentally.
+- Confirm automations applying tags are enabled.
+- Tagging visibility depends on mailbox configuration.

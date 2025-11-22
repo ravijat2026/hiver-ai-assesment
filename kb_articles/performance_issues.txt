@@ -1,0 +1,8 @@
+Title: Troubleshooting Slow Email Loading
+
+If conversations are taking too long to open:
+- Check browser extensions — some extensions interfere with Hiver UI.
+- Clear browser cache and refresh.
+- Disable ad blockers for Gmail.
+- Check internet connectivity.
+- Review large attachments in threads.

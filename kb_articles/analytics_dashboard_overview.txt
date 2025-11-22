@@ -1,0 +1,12 @@
+Title: Hiver Analytics Overview
+
+Hiver Analytics provides insights into team performance, including CSAT, response time, resolution time, and SLA breaches.
+
+You can access it via:
+Dashboard → Analytics
+
+Filters include:
+- User
+- Shared Mailbox
+- Time Window
+- Tag

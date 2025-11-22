@@ -1,0 +1,17 @@
+Title: How to Configure Automations in Hiver
+
+Hiver automations allow you to reduce manual effort by creating rules that trigger actions when certain conditions are met.
+
+To configure automations:
+1. Go to the Hiver Dashboard.
+2. Navigate to Automations.
+3. Click "Create Automation".
+4. Select a trigger — for example: "When an email arrives", "When a tag is applied", or "When status changes".
+5. Define conditions such as subject keywords, assignee, SLA status, customer domain, etc.
+6. Add one or more actions — assign to user, apply a tag, update status, add note, etc.
+7. Save and enable the automation.
+
+Common issues:
+- Automations won't run if they are disabled.
+- Conflicting automations may cause unexpected behavior.
+- Make sure conditions are not mutually exclusive.
